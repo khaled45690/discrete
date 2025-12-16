@@ -14,8 +14,8 @@ import random
 import sys
 import time
 
-ROWS = 6
-COLS = 7
+ROWS = 8
+COLS = 8
 PLAYER = 1
 AI = 2
 EMPTY = 0
